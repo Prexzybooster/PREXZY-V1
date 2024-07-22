@@ -1,7 +1,7 @@
 {
-   "name": "wasi md",
+   "name": "PREXZY-V1",
    "version": "1.0.0",
-   "description": "Multi device whatsapp bot by wasi.",
+   "description": "Multi device whatsapp bot by Precious Ayomide.",
    "main": "lib/smd.js",
    "type": "commonjs",  
    "scripts": {

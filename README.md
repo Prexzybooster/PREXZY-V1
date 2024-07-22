@@ -23,7 +23,7 @@
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{wasixd}/count.svg" alt="WASI-MD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{prexzybooster}/count.svg" alt="PREXZY-V1 :: Visitor's Count" /></p>
 ---
 
 
@@ -99,7 +99,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a href="https://pair-qr-wasi-md.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
   # <a href="https://pair-qr-wasi-md.onrender.com"><img title="fork" src="https://img.shields.io/badge/pair code -h?color=darkblue&style=for-the-badge&logo=msi"></a>
 
-# <a href="https://github.com/wasixd/WASI-MD/fork"><img title="fork" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+# <a href="https://github.com/prexzybooster/PREXZY-V1/fork"><img title="fork" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 # <a href="https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 # <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 # <a href="(https://replit.com/github/wasixd/WASI-MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=darkblue&style=for-the-badge&logo=msi"></a>

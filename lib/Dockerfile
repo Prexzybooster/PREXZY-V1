@@ -17,9 +17,10 @@
 
  
 
-FROM quay.io/prexzybooster/PREXZY-V1
-RUN git clone https://github.com/prexzybooster/PREXZY-V1/root/prexzybooster
-WORKDIR /root/prexzybooster/
+
+FROM quay.io/sampandey001/secktor
+RUN git clone https://github.com/prexzybooster/Prexzy-V1 /root/wasixd
+WORKDIR /root/wasixd
 RUN npm install
 EXPOSE 8000
-CMD ["npm","start" ] 
+CMD ["npm","start" ]

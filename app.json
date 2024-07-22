@@ -1,15 +1,15 @@
 {
-  "name": "Wasi-md",
-  "description": "Hi there, I am wasi Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.",
-  "logo": "https://github.com/wasixd/WASI-MD/blob/main/lib/assets/suhail.jpg",
-  "keywords": ["WASI MD BOT", "wasi md bot", "wasi tech", "wasi md", "wasi tech", "wasi Md Whatsapp Bot","multi device"],
+  "name": "PREXZY-V1",
+  "description": "Hi there, I am Prexzy Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.",
+  "logo": "https://telegra.ph/file/c3367b00001035677cc6b.jpg",
+  "keywords": ["PREXZY V1 BOT", "prexzy v1 bot", "prexzyvilla", "prexzy v1", "prexzyvilla", "prexzy V1 Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/suhail/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "WASI SER",
+      "value": "PRECIOUS AYOMIDE",
       "required" : false 
     },   
     
@@ -27,17 +27,17 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false ,    
-      "value": "WASI MD"
+      "value": "PREXZY V1"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :true,    
-      "value": "https://telegra.ph/file/da95ed969f943e4d61ca8.jpg"
+      "value": "https://telegra.ph/file/c3367b00001035677cc6b.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :true,    
-      "value": "Karachi/Pakistan"
+      "value": "Africa/Lagos"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responding (After deployement!)",
@@ -102,7 +102,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "923135673658"
+      "value": "2349159895444"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -132,12 +132,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "wasi👋",
+      "value": "prexzy👋",
       "required": true 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "Md",
+      "value": "v1",
       "required": true 
     }
   }, 

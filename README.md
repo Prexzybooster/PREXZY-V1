@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/prexzybooster/prexzy-v1"><b>WASI-md</b></a> Support Deploy On...
+  <a href="https://github.com/prexzybooster/prexzy-v1"><b>PREXZY-V1</b></a> Support Deploy On...
 </p>
 
 <p align="center">

@@ -1,25 +1,25 @@
 
 
-<h1 align="center"> 𝗪𝗔𝗦𝗜 𝗠𝗗 </h1> 
-<p align="center"> Introducing 𝘄𝗮𝘀𝗶 𝗻𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+<h1 align="center"> PREXZY-V1 </h1> 
+<p align="center"> Introducing PREXZY-V1, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
-[![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+WASI+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
+[![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+PREXZYV1+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
 
 
 <p align="center">
-  <a href="https://github.com/wasixd/WASI-MD">
-    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/18a6be1692b8f5cd5b6e7.jpg">
+  <a href="https://github.com/prexzybooster/PREXZY-V1">
+    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/c3367b00001035677cc6b.jpg">
   </a>
 </p>
     
    
    
 <p align="center">
-  <a href="https://wa.me/+923135673658?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+WASI-md+Repo" target="_blank">
+  <a href="https://wa.me/+2349159895444?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Prexzy-v1+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
  
-  <a aria-label="wasi-md is free to use" href="https://github.com/wasixd/WASI-MD" target="_blank">
-    <img alt="wasitech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="prexzy-v1 is free to use" href="https://github.com/prexzybooster/prexzy-v1" target="_blank">
+    <img alt="prexzyvilla" src="https://telegra.ph/file/c3367b00001035677cc6b.jpg" target="_blank" />
   </a>
 
 </p>
@@ -29,7 +29,7 @@
 
 
 
-<p align="center"> 𝗪𝗔𝗦𝗜 𝗠𝗗 uses
+<p align="center"> PREXZY-V1 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/wasixd/WASI-MD"><b>WASI-md</b></a> Support Deploy On...
+  <a href="https://github.com/prexzybooster/prexzy-v1"><b>WASI-md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -75,9 +75,9 @@
 
 
 
-<h3>Wasi-MD Stats</h3>
+<h3>PREXZY-V1 Stats</h3>
 
-![Wasi-MD Stats](https://github-readme-stats.vercel.app/api/pin/?username=wasixd&repo=WASI-MD&show_owner=true&theme=dark)
+![Prexzy-v1 Stats](https://github-readme-stats.vercel.app/api/pin/?username=prexzybooster&repo=PREXZY-V1&show_owner=true&theme=dark)
 
 
     
@@ -110,18 +110,18 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
  `Star ⭐ repo if you like this bot`.
- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/THZ3I25BYZM2E1)
+ If any problem, then [`Whatsapp Me Here`](https://whatsapp.com/wa.me/2349159895444)
 
 
 ### I Am
 - 
-[![View My GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Itxxwasi)
+[![View My GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/prexzybooster)
 
-[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/+923192173398)
+[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/+2349159895444)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=instagram)](https://www.instagram.com/itx_mee_wasi)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=instagram)](https://www.instagram.com/prexzy.ay)
 
-[![Telegram](https://img.shields.io/badge/Telegram-Profile-blue?style=flat-square&logo=telegram)](https://t.me/@itxwasi)
+[![Telegram](https://img.shields.io/badge/Telegram-Profile-blue?style=flat-square&logo=telegram)](https://t.me/@prexzy_ay)
 
 
 
@@ -129,9 +129,9 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 </h2>
    
 ## 
-- *WASI MDVis not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *PREXZY V1is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use WASI-Md at your own risk by keeping this warning in mind.*
-- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD)
+- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/prexzybooster/PREXZY-V1)
 
-[![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+WASI+MD;🙏;🙏+✍🏾;🥰)](https://github.com/wasixd)
+[![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+PREXZY+V1;🙏;🙏+✍🏾;🥰)](https://github.com/wasixd)

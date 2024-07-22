@@ -17,9 +17,9 @@
 
  
 
-FROM quay.io/wasixd/WASI-MD
-RUN git clone https://github.com/wasixd/WASI-MD/root/wasixd
-WORKDIR /root/wasixd/
+FROM quay.io/prexzybooster/PREXZY-V1
+RUN git clone https://github.com/prexzybooster/PREXZY-V1/root/prexzybooster
+WORKDIR /root/prexzybooster/
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 

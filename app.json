@@ -2,8 +2,8 @@
   "name": "PREXZY-V1",
   "description": "Hi there, I am Prexzy Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.",
   "logo": "https://telegra.ph/file/c3367b00001035677cc6b.jpg",
-  "keywords": ["WASI MD BOT", "wasi md bot", "wasi tech", "wasi md", "wasi tech", "wasi Md Whatsapp Bot","multi device"],
-  "success_url": "/",
+  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
+  "success_url": "/suhail/",
   "app_url": "/suhail/",
   
   "env": {

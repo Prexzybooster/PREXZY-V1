@@ -3,7 +3,7 @@
 <h1 align="center"> PREXZY-V1 </h1> 
 <p align="center"> Introducing PREXZY-V1, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
-[![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+PREXZYV1+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
+[![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+PREXZYV1+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/prexzybooster)
 
 
 <p align="center">
@@ -19,7 +19,7 @@
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
  
   <a aria-label="prexzy-v1 is free to use" href="https://github.com/prexzybooster/prexzy-v1" target="_blank">
-    <img alt="prexzyvilla" src="https://telegra.ph/file/c3367b00001035677cc6b.jpg" target="_blank" />
+    <img alt="prexzyvilla" src="https://img.shields.io/youtube/channel/subscribers/prexzyvilla" target="_blank" />
   </a>
 
 </p>

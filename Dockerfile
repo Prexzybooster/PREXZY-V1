@@ -11,7 +11,7 @@
  
 
 FROM quay.io/sampandey001/secktor
-RUN git clone https://github.com/don-devil/DON-DEVIL-BOT.git /root/wasixd
+RUN git clone https://github.com/prexzybooster/prexzy-v1 /root/wasixd
 WORKDIR /root/wasixd
 RUN npm install
 EXPOSE 8000
